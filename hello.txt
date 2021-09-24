@@ -2,6 +2,8 @@ Hello world and git
 
 Second commit
 
+Dev branch first commit
+
 So there we created dev branch and return to master
 
 I decide to add more commits to master branch
